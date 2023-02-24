@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "think",
+			"text": "(Wait... I forgot to make a deal that if I won he would release everyone..)"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "explain",
+			"text": "Umm.. Airy-"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "airy",
+			"boxState": "normal",
+			"expression": "talk3",
+			"text": "Anyway.. now it’s time for the neeext\\nchalleeege..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "unamused",
+			"text": ". . ."
+		}
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				4781.25,
+				[
+					[
+						"lyrics",
+						"Repeat",
+						"E7E7E7"
+					]
+				]
+			],
+			[
+				5062.5,
+				[
+					[
+						"lyrics",
+						"Repeat after",
+						"E7E7E7"
+					]
+				]
+			],
+			[
+				5531.25,
+				[
+					[
+						"lyrics",
+						"Repeat after me",
+						"E7E7E7"
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"boyfriend",
+						"cohostliam2"
+					]
+				]
+			]
+		]
+	}
+}

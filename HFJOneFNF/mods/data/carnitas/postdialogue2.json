@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "!!"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Hey! Uh- Watch the road, kid!"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "happynervous",
+			"text": "Uh-huh!-"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "nervous2",
+			"text": "H-HEY! WATCH I-"
+		}
+	]
+}

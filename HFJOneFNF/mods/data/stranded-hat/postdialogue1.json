@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": ". . ."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "-Sigh- Okay.. now let me see your notes"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "noteholdout",
+			"text": "Oh. yeah. here. They just have names, writing, and a bunch of numbers.."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "notetalk",
+			"text": "..Well.. that one looks like an address.. do you know anything about it?"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "think2",
+			"text": "Uh.. No.. I don’t."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "notetalk",
+			"text": "So.. all of that just now was pointless."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "happynervous",
+			"text": "Uhhhhh…."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "airy",
+			"boxState": "normal",
+			"expression": "think",
+			"text": "The next challenge is about to start.."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Annnyway, I hope the challenge has nothing to do with that pool, I HATE swimming."
+		}
+	]
+}

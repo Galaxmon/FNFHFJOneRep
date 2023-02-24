@@ -1,0 +1,220 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "We are NOT climbing that pole.",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.09,
+			"portrait": "bryce"
+		},
+		{
+			"expression": "happy",
+			"text": "",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat"
+		},
+		{
+			"expression": "concerned",
+			"text": "..What do you want?",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bryce"
+		},
+		{
+			"expression": "happynervous",
+			"text": "i’m bored. do u guys wanna...",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat"
+		},
+		{
+			"expression": "happy",
+			"text": "",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat"
+		},
+		{
+			"expression": "calm",
+			"text": "rap battle?",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat"
+		},
+		{
+			"expression": "explain",
+			"text": "Rap battle..?",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.095,
+			"portrait": "bryce"
+		},
+		{
+			"expression": "concerned",
+			"text": "No, we definitely do not have time for that. ",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.07,
+			"portrait": "bryce"
+		},
+		{
+			"expression": "smartass",
+			"text": "..Well all I see you doing is yelling at airy which I don’t think is doing anything useful.",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat"
+		},
+		{
+			"expression": "explain",
+			"text": "Well all I see YOU doing is making weird noises at our captor upon being taken from your home. I don't see how that can POSSIBLY- ",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bryce"
+		},
+		{
+			"expression": "concerned",
+			"text": "Wait. I forgot you came from that weird other world. ugh-",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bryce"
+		},
+		{
+			"expression": "spam",
+			"text": "Actually.. I DO have someplace I'd like to return to..",
+			"boxState": "normal",
+			"portrait": "hat",
+			"speed": 0.05,
+			"sound": "nothing"
+		},
+		{
+			"expression": "lookback",
+			"text": "Whatever. can you leave us alone now?",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bryce"
+		},
+		{
+			"expression": "concern",
+			"text": "You said you have someone to return \nto, right?",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "think",
+			"text": "..Well.. maybe we-",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "challenge",
+			"text": "We could do a rap battle?! YES! ",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.02,
+			"portrait": "hat"
+		},
+		{
+			"expression": "think",
+			"text": "Um.. that’s not exactly.. what i..",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "concern",
+			"text": "What I was meaning to say was.. all the others from your world seem to be fine with being here on the plane, except for..",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "nervous",
+			"text": "You..!",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.06,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "concern2",
+			"text": "Somewhat..",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "think",
+			"text": "I know how to meditate. And you know how to.. um.. do that weird thing..",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "shrug",
+			"text": "Maybe we can teach each other something..?",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "think",
+			"text": "I could teach you how to meditate and be more calm..",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "shrug",
+			"text": "And you could teach me how to..",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "challenge",
+			"text": "Rap battle?",
+			"boxState": "angry",
+			"sound": "nothing",
+			"speed": 0.01,
+			"portrait": "hat"
+		},
+		{
+			"expression": "nervous",
+			"text": "Yea actually..!.. ",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.08,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "nervous",
+			"text": "(Now I can test out my yoga instruction skills for when i get back home!..) \r\n",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		}
+	]
+}

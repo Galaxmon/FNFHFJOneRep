@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "faceless",
+			"text": ". . ."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "texty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Liam, what's going on?"
+		},
+		{
+			"sound": "",
+			"speed": 0.155,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "wake",
+			"text": ". . ."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "We're ending this."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": ". . ?"
+		},
+		{
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "angrynote",
+			"text": "..."
+		}
+	]
+}

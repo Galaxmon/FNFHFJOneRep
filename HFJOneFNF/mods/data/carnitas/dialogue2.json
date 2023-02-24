@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "surprised1",
+			"text": "!!"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "hurt",
+			"text": "Ough.. ow.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "Huh?! This isn't back.. wait.. "
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "(Are those.. other objects.. walking around?)"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "This isn't home at all!!"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "connor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhh.. sir..? Are you alright? You're yelling.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "I-"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "connor",
+			"boxState": "normal",
+			"expression": "note",
+			"text": "Also, you dropped this blue sticky note.. that has an address on it."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "connor",
+			"boxState": "normal",
+			"expression": "notepoint",
+			"text": "Are you trying to get there? It's just a few blocks down that way."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.065,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "surprised1",
+			"text": ". . ."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.06,
+			"portrait": "connor",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "(Weirdo..)"
+		}
+	]
+}

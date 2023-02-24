@@ -1,0 +1,411 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"start",
+						"0"
+					],
+					[
+						"Play Animation",
+						"start",
+						"1"
+					]
+				]
+			],
+			[
+				300,
+				[
+					[
+						"lyrics",
+						"Six",
+						"F1EB9C"
+					]
+				]
+			],
+			[
+				600,
+				[
+					[
+						"lyrics",
+						"Six.",
+						"F1EB9C"
+					]
+				]
+			],
+			[
+				900,
+				[
+					[
+						"lyrics",
+						"Six.. more",
+						"F1EB9C"
+					]
+				]
+			],
+			[
+				1500,
+				[
+					[
+						"lyrics",
+						"Six.. more eliminations",
+						"F1EB9C"
+					]
+				]
+			],
+			[
+				2100,
+				[
+					[
+						"lyrics",
+						"Six.. more eliminations left.",
+						"F1EB9C"
+					]
+				]
+			],
+			[
+				2700,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3300,
+				[
+					[
+						"lyrics",
+						"Are you",
+						"228B22"
+					]
+				]
+			],
+			[
+				3700,
+				[
+					[
+						"lyrics",
+						"Are you BRAINDEAD??",
+						"228B22"
+					]
+				]
+			],
+			[
+				4600,
+				[
+					[
+						"lyrics",
+						"Send",
+						"228B22"
+					]
+				]
+			],
+			[
+				4800,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"800"
+					]
+				]
+			],
+			[
+				4900,
+				[
+					[
+						"lyrics",
+						"Send everyone",
+						"228B22"
+					]
+				]
+			],
+			[
+				5200,
+				[
+					[
+						"lyrics",
+						"Send everyone back.",
+						"228B22"
+					]
+				]
+			],
+			[
+				5600,
+				[
+					[
+						"Camera Follow Pos",
+						"1250",
+						"830"
+					]
+				]
+			],
+			[
+				5800,
+				[
+					[
+						"lyrics",
+						"Right.",
+						"228B22"
+					]
+				]
+			],
+			[
+				6100,
+				[
+					[
+						"lyrics",
+						"Right. Now.",
+						"228B22"
+					]
+				]
+			],
+			[
+				6400,
+				[
+					[
+						"Change Character",
+						"0",
+						"liam_enough"
+					],
+					[
+						"Change Character",
+						"1",
+						"airy_enough"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Stage Switch",
+						"drugs",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"druggedairy"
+					],
+					[
+						"Change Character",
+						"0",
+						"druggedliam"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Stage Switch",
+						"spowthesenuts",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"enoughspowairy"
+					],
+					[
+						"Change Character",
+						"0",
+						"enoughspowliam"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"2"
+					],
+					[
+						"Stage Switch",
+						"spowthesenutsmono",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Change Scroll Speed",
+						"0.5",
+						"3"
+					]
+				]
+			],
+			[
+				102800,
+				[
+					[
+						"lyrics",
+						"Backpack,",
+						"F1EB9C"
+					],
+					[
+						"Play Animation",
+						"wait",
+						"enoughmonospowairy"
+					]
+				]
+			],
+			[
+				103500,
+				[
+					[
+						"lyrics",
+						"Backpack, wait-",
+						"F1EB9C"
+					]
+				]
+			],
+			[
+				103700,
+				[
+					[
+						"lyrics",
+						"MY NAME",
+						"228B22"
+					],
+					[
+						"Play Animation",
+						"FUCK YOU",
+						"BF"
+					]
+				]
+			],
+			[
+				104000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.12",
+						"2"
+					]
+				]
+			],
+			[
+				104300,
+				[
+					[
+						"lyrics",
+						"MY NAME IS NOT",
+						"228B22"
+					]
+				]
+			],
+			[
+				104900,
+				[
+					[
+						"lyrics",
+						"BACKPACK!!",
+						"228B22"
+					]
+				]
+			],
+			[
+				105100,
+				[
+					[
+						"Stage Switch",
+						"finaltransition",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					],
+					[
+						"Stage Switch",
+						"finalchange",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				150400,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"2"
+					],
+					[
+						"Flash Camera",
+						"3",
+						""
+					],
+					[
+						"Change Character",
+						"0",
+						"enoughliamtired"
+					]
+				]
+			]
+		]
+	}
+}

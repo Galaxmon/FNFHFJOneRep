@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": ".."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "airy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Which means Backpack, and Hat will be put up for elimination.."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "fear",
+			"text": "Backpack!"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.03,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "fear",
+			"text": "Backpack, are you okay??"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "bryce",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Talk to us! What Happened?!"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.025,
+			"portrait": "amelia",
+			"boxState": "normal",
+			"expression": "fear",
+			"text": "BACKPACK!!"
+		}
+	]
+}

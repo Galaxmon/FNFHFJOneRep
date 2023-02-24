@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..?"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "happy2",
+			"text": "Oh.. uh.. hey there! "
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervoustalk",
+			"text": "..Hi..?"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Sorry, I put up the signs for my yard sale a bit too early, it's not ready yet if that's what you're here for.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "Heh. (Knew it'd be successful!)"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "..Not really.. here.. for that. (Don't know WHAT Im here for, actually..)"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "think",
+			"text": "Oh!.. oh. Wellll.. I'm taking a break right now.. anything you need? "
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervous2",
+			"text": "..Wanna have a rap battle..? (That usually solves everything for BF..)"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "Oohhh!! Haha! Are you cosplaying as that silly character from that uh.. Friday Night Funky.. Game.. thing?"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "My kid has been playing that ALL summer! "
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.065,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Um."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "challenging",
+			"text": "Yeaaahh! Sure! I'm hip! I can do this! "
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "idlemic",
+			"text": "Yeaaahh..?.."
+		}
+	]
+}

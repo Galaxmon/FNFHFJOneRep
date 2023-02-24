@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "confident",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "wtf is this place"
+		},
+		{
+			"sound": "",
+			"speed": 0.15,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "surprised1",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "calm",
+			"text": "ok bye"
+		}
+	]
+}

@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "nothing",
+			"speed": 0.06,
+			"portrait": "airy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright.. Moldy’s team is full.. that means Atom, Abstracty, Folder, Airline Food, and Hat will make up the last team.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "airlinefood",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "airy",
+			"boxState": "normal",
+			"expression": "think",
+			"text": "It.. looks like they have one extra team\\nteam member though.. whoops.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "airy",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Oh well.. the next challenge is almost ready.. one moment.."
+		},
+		{
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": ". . ."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.08,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervoustalk",
+			"text": "So.. you guys listening to any cool songs\\nlately..?"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "folder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I can list the top charts in music today! Would you like me to do that? Please respond with “Yes” or “No”."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.085,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervous2",
+			"text": "...…Yeeeessss..?"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "folder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The top charts for Today: Taking first place is..—"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "wait",
+			"text": "WAIT! You got any songs that go like.. uhh.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "rad",
+			"text": "beep boop bap baaeeepp..?"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "folder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..I found one result on SoundLoud. “Vs. Folder — Friday Night Assistin’ OST (CONCEPT)”.. Would you like me to play it?"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.045,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "Yea! Let’s hear it!! I'll even improvise with my own vocals too!"
+		}
+	]
+}

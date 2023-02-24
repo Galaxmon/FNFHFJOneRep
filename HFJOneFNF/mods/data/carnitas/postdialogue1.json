@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": ".."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "confusion",
+			"text": "Phew! ..That was.. pant ..fun, wasn't it? Mhhhm. Not tired..! ..not one bit… ahhh.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervoustalk",
+			"text": "Sure.. so cool! Yup.. alright.. well.. see ya!"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "bradley",
+			"boxState": "normal",
+			"expression": "happy2",
+			"text": "You should come hang out with my kid \\nsometime! (He needs friends..)"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "happynervous",
+			"text": "Yeah! Uh-huh!"
+		}
+	]
+}

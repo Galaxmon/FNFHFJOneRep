@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "nothing",
+			"speed": 0.055,
+			"portrait": "airy",
+			"boxState": "normal",
+			"expression": "talk2",
+			"text": "Alright.. it's time to eliminate someone.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.11,
+			"portrait": "airy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay.. the person i'm going to eliminate is going to go back.. riiiiight.. now.        wai-"
+		}
+	]
+}

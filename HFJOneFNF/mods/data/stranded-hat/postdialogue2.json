@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "inwater",
+			"text": "..."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "inwater",
+			"text": "Stupid sky voice.. teleporting me into a pool upside down.. at least I got out.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "inwater",
+			"text": "..?"
+		}
+	]
+}

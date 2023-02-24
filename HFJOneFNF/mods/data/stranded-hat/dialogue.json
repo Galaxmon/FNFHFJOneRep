@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "call",
+			"text": "Hey! Uh.. Hat, right?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "concerntalk",
+			"text": " Stone gave you notes too right? I saw."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do they say?"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "notetalk",
+			"text": "Are they just as weird as mine?"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "notetalk",
+			"text": "Do you know what they mean?-"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "nervous",
+			"text": "Well.. they.. uh—"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "idea",
+			"text": "!!"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "happynervous",
+			"text": "I'll show them to you.."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "challenge",
+			"text": "IF.. you rap battle me!"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "concerntalk",
+			"text": "..Really."
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "happy2",
+			"text": "Mhmm!!"
+		},
+		{
+			"sound": "normal",
+			"speed": 0.05,
+			"portrait": "liam",
+			"boxState": "normal",
+			"expression": "disappointed",
+			"text": "..Fine.. got nothing better to do around here anyway.. why NOT make a fool of myself at this point.."
+		}
+	]
+}

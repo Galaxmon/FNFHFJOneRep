@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Length",
+						"90000",
+						""
+					]
+				]
+			],
+			[
+				90666.6666666666,
+				[
+					[
+						"Set Song Length",
+						"159000",
+						"8, smootherStepInOut"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "surprised1",
+			"text": "!!"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "hurt",
+			"text": "Ough..!"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep..."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.12 ,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Come on, BF.. I said I'd buy you a new one! (It's been months..)"
+		},
+		{
+			"sound": "bf",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "!!"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "concern",
+			"text": "Huh? What is it?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "!!!"
+		}
+	]
+}

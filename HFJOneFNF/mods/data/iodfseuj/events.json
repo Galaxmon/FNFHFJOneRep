@@ -1,0 +1,271 @@
+{
+	"song": {
+		"events": [
+			[
+				39735.0993377483,
+				[
+					[
+						"Change Scroll Speed",
+						"0.75",
+						"13.88"
+					]
+				]
+			],
+			[
+				51621.7074211398,
+				[
+					[
+						"Change Character",
+						"1",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				51871.7074211398,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				70317.3595950528,
+				[
+					[
+						"Change Scroll Speed",
+						"1.17",
+						"15.23"
+					]
+				]
+			],
+			[
+				101320.028418464,
+				[
+					[
+						"Play Animation",
+						"bye",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				103071.853235982,
+				[
+					[
+						"Change Scroll Speed",
+						"0.90",
+						"0.01"
+					]
+				]
+			],
+			[
+				105928.276764205,
+				[
+					[
+						"Change Character",
+						"1",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				106178.276764205,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107680.101581724,
+				[
+					[
+						"Change Character",
+						"1",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107680.101581724,
+				[
+					[
+						"Change Character",
+						"1",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107680.101581724,
+				[
+					[
+						"Change Character",
+						"1",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107680.101581724,
+				[
+					[
+						"Change Character",
+						"1",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107680.101581724,
+				[
+					[
+						"Change Character",
+						"1",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107680.101581724,
+				[
+					[
+						"Change Character",
+						"1",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107930.101581724,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107930.101581724,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107930.101581724,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107930.101581724,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107930.101581724,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				107930.101581724,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"liamabstract"
+					]
+				]
+			],
+			[
+				111830.977323573,
+				[
+					[
+						"Change Character",
+						"1",
+						"bryceabstract"
+					]
+				]
+			],
+			[
+				112049.955425763,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"bryceabstract"
+					]
+				]
+			],
+			[
+				131101.050316274,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"9.97"
+					]
+				]
+			],
+			[
+				166670.387959126,
+				[
+					[
+						"Change Scroll Speed",
+						"0.75",
+						"11.54"
+					],
+					[
+						"Play Animation",
+						"bye",
+						"bryceabstract"
+					]
+				]
+			],
+			[
+				175501.005296836,
+				[
+					[
+						"Change Character",
+						"dad",
+						"abstractairy"
+					]
+				]
+			],
+			[
+				176265.908862003,
+				[
+					[
+						"Play Animation",
+						"play",
+						"abstractairy"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "think",
+			"text": ". . ."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "smartass",
+			"text": "Meh."
+		},
+		{
+			"sound": "",
+			"speed": 0.09,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "stone",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "!!"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "stone",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "happynervous",
+			"text": "..For me?? You shouldn't have!!"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "noteholdout",
+			"text": "Um.. ..what do I do with these..?"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.065,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "readnote",
+			"text": "'Silva,' then some numbers.. blah blah.. avenue.. Bridgeport.. blah blah.. .. okay.. and.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "surprisednote",
+			"text": "BF?!.."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "readnote",
+			"text": "(..and a bunch of numbers under his name?! He HATES numbers!)"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.035,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "explainnote",
+			"text": "..Hey! What are these f-"
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "talknote",
+			"text": "Oh.. he left."
+		},
+		{
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat",
+			"boxState": "normal",
+			"expression": "talknote",
+			"text": "..Guess I'll hold onto these.. why not."
+		}
+	]
+}

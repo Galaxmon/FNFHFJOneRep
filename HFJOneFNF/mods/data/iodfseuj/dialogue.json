@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"expression": "concerntalk",
+			"text": "What.. was that thing..?",
+			"boxState": "normal",
+			"portrait": "liam",
+			"speed": 0.05,
+			"sound": "nothing"
+		},
+		{
+			"expression": "nervous2",
+			"text": "I.. don't know..? Maybe it was-",
+			"boxState": "normal",
+			"portrait": "amelia",
+			"speed": 0.05,
+			"sound": "nothing"
+		},
+		{
+			"expression": "explain",
+			"text": "..What was what now?",
+			"boxState": "normal",
+			"portrait": "hat",
+			"speed": 0.05,
+			"sound": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "!!",
+			"boxState": "normal",
+			"portrait": "aa",
+			"speed": 0.00500000000000001,
+			"sound": "nothing"
+		},
+		{
+			"expression": "angry",
+			"text": "HEY! Were you EAVESDROPPING on us?!",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "calm",
+			"text": "Maaayybe? I dunno what that word means.",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat"
+		},
+		{
+			"expression": "think2",
+			"text": "Anyways, what thing are you guys talking about? I wanna know!!",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "hat"
+		},
+		{
+			"expression": "nervous",
+			"text": "(What is wrong with this guy..?)",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "liam"
+		},
+		{
+			"expression": "disappointment",
+			"text": "Were you even paying attention to what Airy just blasted into our eardrums?",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "amelia"
+		},
+		{
+			"expression": "calm",
+			"text": "Noooo…?",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.08,
+			"portrait": "hat"
+		},
+		{
+			"expression": "talk",
+			"text": "There’s new contestants now. Like the.. weird.. colorful shapeshifting triangle thing. ",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "liam"
+		},
+		{
+			"expression": "talk",
+			"text": "..It’s over there by those bushes.. But I\\nwouldn't recommend interacting with it.. for your own sake.. -Sigh-",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "liam"
+		},
+		{
+			"expression": "confident",
+			"text": "Pshhh! Yeah sure, I've seen MUCH worse than colorful triangles! Watch this!",
+			"boxState": "normal",
+			"portrait": "hat",
+			"speed": 0.05,
+			"sound": "nothing"
+		},
+		{
+			"expression": "nervous",
+			"text": ". . .",
+			"boxState": "normal",
+			"portrait": "liam",
+			"speed": 0.07,
+			"sound": ""
+		},
+		{
+			"expression": "walkin",
+			"text": "Heyyy, triangle thing, what’s up?",
+			"boxState": "normal",
+			"portrait": "hat",
+			"speed": 0.05,
+			"sound": "nothing"
+		},
+		{
+			"expression": "talk",
+			"text": "(9”6 #(85 @ 5@“‘8;* (@5 5(@5 @+5# “8’3 @ $97+(3 “:&@9 8: 9;;@ :8:8+ 5(8#76 #9 (@4$",
+			"boxState": "normal",
+			"portrait": "abstracty",
+			"speed": 0.03,
+			"sound": "nothing"
+		},
+		{
+			"expression": "confident",
+			"text": "Oh I can make weird sounds too! Check it!",
+			"boxState": "normal",
+			"portrait": "hat",
+			"speed": 0.05,
+			"sound": "nothing"
+		},
+		{
+			"expression": "rad",
+			"text": "bopo de  skebap be beeeep bappity  beepo boop skdabeep beepaa",
+			"boxState": "normal",
+			"portrait": "hat",
+			"speed": 0.05,
+			"sound": "bf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "abstracty",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Hi my name is hat! Im dumb, wanna rap battle? beep boopa bop!",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "abstracthat"
+		},
+		{
+			"expression": "angrymic",
+			"text": "OH YOU'RE ON!!",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.03,
+			"portrait": "hat"
+		},
+		{
+			"expression": "think",
+			"text": "You guys got mad at me last time for not telling you, so.. uh..",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "airy"
+		},
+		{
+			"expression": "talk",
+			"text": "I'’m gonna eliminate someone.. in just a minute or two.. almost ready.. \r\n",
+			"boxState": "normal",
+			"sound": "nothing",
+			"speed": 0.05,
+			"portrait": "airy"
+		}
+	]
+}

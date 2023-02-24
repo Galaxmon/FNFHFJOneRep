@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				10666.6666666667,
+				[
+					[
+						"Stage Switch",
+						"firstchange",
+						""
+					]
+				]
+			],
+			[
+				29166.6666666667,
+				[
+					[
+						"Stage Switch",
+						"bryceappear",
+						""
+					]
+				]
+			],
+			[
+				42333.3333333333,
+				[
+					[
+						"Stage Switch",
+						"ameliaappear",
+						""
+					]
+				]
+			],
+			[
+				90666.6666666666,
+				[
+					[
+						"Stage Switch",
+						"secondchange",
+						""
+					]
+				]
+			],
+			[
+				100833.333333333,
+				[
+					[
+						"Play Animation",
+						"hi",
+						""
+					]
+				]
+			],
+			[
+				127000,
+				[
+					[
+						"Stage Switch",
+						"firstchange",
+						""
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bfdesolation"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"evilliam"
+					]
+				]
+			]
+		]
+	}
+}
